@@ -589,7 +589,7 @@ padding-top: 30px;
 footer{
     background-color: #E2EBF4;
     padding: 50px 0 20px;
-    
+    text-align: center;
     padding-bottom: 250px;
 
 }
@@ -665,10 +665,11 @@ float: left;
 .footer_image{
   width: 5%;
     height: 5%; 
-    float: left; 
+   
 }
 
 .third_footer p{
+    
 float: left;
 display: inline-block;
 width: 30%;
@@ -909,6 +910,7 @@ footer{
 .first_footer{
     width: 30%;
    margin-left: 70px;
+  
 
 
 
@@ -969,8 +971,8 @@ footer{
 
 
 .second_footer h6{
-    text-align: center;
-
+    
+text-align: center;
 }
 
 .btn{
@@ -978,13 +980,15 @@ footer{
 }
 
 .footer_image{
-  width: 50%;
+ 
+  width: 30%;
    
   
 }
 
 .third_footer p{
 margin-left: 8px;
+
 
 }
 
@@ -994,7 +998,7 @@ margin-left: 8px;
  
  width: 70%;
 }
-
+/*==================== tenth container======================*/
 .tenth_container{
     background-color: #0661BE;
     text-align: left;
