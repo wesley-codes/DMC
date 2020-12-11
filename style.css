@@ -1,0 +1,1024 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+overflow-x: hidden;
+}
+
+
+*,*:focus,*:active{
+    outline: none;
+   
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+.hootoo{
+color: blue;
+text-decoration: underline;
+
+margin-bottom: 50px;
+
+}
+
+
+.Images{
+    width: 10%;
+}
+
+
+.name{
+    display: inline-block;
+}
+
+.sub{
+    text-align: left;
+    
+    margin-left: 5px;
+
+}
+
+.sub h6{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.sub p{
+    
+    margin-top: 0px;
+
+}
+
+
+
+
+
+/* ========================FIRST CONTAINER=======================*/
+.first_container{
+   background-image: url("./images/amy-hirschi-K0c8ko3e6AA-unsplash\ \(1\).jpg");
+  background-position: center right ;
+  background-size: 100%;
+   padding-left: 10%;
+  padding-top: 5%;
+ 
+  padding-bottom: 20%;
+
+}
+
+.first_container h2{
+    letter-spacing: 0.2em;
+    width: 280px;
+}
+.first_container h4{
+   margin: 0;
+}
+
+
+
+
+
+/* ======================SECOND CONTAINER ======================*/
+
+.second_container{
+   
+    text-align: center;
+    
+    padding-bottom: 5%;
+
+}
+.second_container h5{
+
+margin-bottom: 10px;
+margin-top: 0px;
+
+padding-top: 30px;
+
+
+}
+
+
+.second_container h3{
+    letter-spacing: 0.1em;
+     margin-top: 5px;
+     
+    margin-bottom: 0px;
+    padding-bottom: 100px;
+
+    padding-bottom: 5px;
+
+
+}
+hr{
+
+    margin-top: 30px;
+    border-top-width: 2px;
+    border-bottom: none;
+    width: 4%;
+    margin:  auto;
+
+}
+
+
+/*=================THIRD CONTAINER======================*/
+
+
+
+.third_container{
+   
+    text-align: center;
+  
+   
+}
+
+
+.fa-anchor{
+    padding-right: 50px;
+    
+    padding-bottom: 20px;
+    margin-top: 40px;
+
+}
+
+
+.fa-image{
+    padding-right: 55px;
+    
+    padding-bottom: 20px;
+    margin-top: 40px;
+
+}
+
+.fa-rocket{
+    
+        padding-right: 65px;
+        
+        padding-bottom: 20px;
+        margin-top: 40px;
+    
+    
+    
+}
+
+
+.third_container h5{
+letter-spacing: 0.2em;
+    margin-top: 0px;
+    width: 50%;
+    padding-left: 30%;
+    
+
+    padding-top: 0px;
+
+
+}
+.third_container p{
+ 
+ width: 70%;
+    text-align: center;
+   padding-left: 15%;
+   line-height: 2;
+   
+   
+}
+
+.third_container div{
+   display:inline-block;
+
+    width:30%;
+   
+}
+
+a{
+    text-decoration: none;
+    padding-right: 15%;
+    
+}
+
+a:hover{
+    color: red ;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/*=========================FOURTH CONTAINER=========================*/
+
+.fourth_container{
+    background-color: #F5F9FC;
+    padding-top: 10px;
+    padding-bottom: 20px;   
+}
+
+.fourth_container div{
+    margin-left: 200px;
+}
+
+.fourth_container img{
+    width: 25%;
+    height: 5%;
+    float: left;
+    margin-right: 30px;
+    padding-top:50px ;   
+}
+
+.fourth_container h4{
+     margin-top: 0px;
+    padding-top: 50px;
+    display: inline-block;
+    margin-bottom: 10px;
+    color: blue;
+    letter-spacing: 0.2em;
+}
+
+.fourth_container h2{
+    letter-spacing: 0.1em;
+   display: block;
+
+
+}
+
+.fourth_container p{
+    line-height: 1.5em;
+    width: 50%;
+    margin-left: 345px;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+/*===========================FIFTH CONTAINER===========================*/
+
+.fifth_container{ 
+
+    background-color: #E2EBF4;
+    text-align: center;
+    height: 100px;
+    
+    
+    padding-bottom: 0px;
+    padding-top: 20px;
+
+
+
+}
+
+
+
+.fifth_container{ 
+
+    background-color: #E2EBF4;
+    text-align: center;
+    height: 100px;
+    
+    
+    padding-bottom: 0px;
+    padding-top: 20px;
+
+
+
+}
+
+
+.vl {
+    border-left: 1px solid green;
+    height: 20px;
+display: inline-block;
+
+margin-left: 7%;
+margin-right: 7%;
+padding-top: 5px;
+  }
+
+
+
+.fifth_container i{
+
+    font-size: 200%;
+}
+
+
+.fifth_container p{
+    display: inline-block;
+    font-size: 0.7em;
+    width: 4%;
+}
+
+
+
+
+
+.fifth_container i{
+
+    font-size: 200%;
+}
+
+
+.fifth_container p{
+    display: inline-block;
+    font-size: 0.7em;
+    width: 4%;
+}
+
+
+
+/*======================SIXTH CONTAONER=============================*/
+
+
+.sixth_container{
+   
+    text-align: center;
+    
+    padding-bottom: 0px;
+
+    padding-bottom: 5%;
+
+}
+.sixth_container h5{
+
+margin-bottom: 10px;
+margin-top: 0px;
+
+padding-top: 30px;
+
+
+}
+
+
+.sixth_container h3{
+    letter-spacing: 0.1em;
+     margin-top: 5px;
+      margin-bottom: 0px;
+    padding-bottom: 100px;
+     
+}
+
+
+
+
+/*=======================SEVENTH CONTAINER=============================*/
+
+.seventh_container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+    margin-top: 50px;
+
+   
+}
+
+
+.seventh_container img{
+float: left;
+width: 25%;
+
+margin-right: 30px;
+
+}
+
+.seventh_container p{
+    display: inline;
+    line-height: 2;
+}
+
+
+.seventh_container h4{
+    
+   letter-spacing: 0.3em;
+    margin-bottom: 5px;
+    margin-top: 5px;
+   
+
+
+}
+
+
+.seventh_container h6{
+    
+    margin-bottom: 5px;
+    color: blue;
+    letter-spacing: 0.1em;
+}
+
+
+
+
+
+/*=======================EIGHT CONTAINER=============================*/
+
+.eight_container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    margin-top: 200px;
+}
+
+.eight_container img{
+    float: right;
+    width: 25%;
+    margin-right: 30px;
+    }
+
+
+    .eight_container h6{
+        margin-bottom: 5px;
+        color: blue;
+        letter-spacing: 0.1em;
+    }
+
+
+    .eight_container h4{
+        letter-spacing: 0.3em;
+        margin-bottom: 5px;
+        margin-top: 5px;  
+    }
+
+    .eight_container p{
+        display: inline;
+        line-height: 2;
+    }
+
+
+
+
+/*==================NINTH CONTAINER================*/
+
+
+.ninth_container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    margin-top: 200px;
+}
+
+.ninth_container img{
+float: left;
+width: 25%;
+margin-right: 30px;
+}
+
+.ninth_container h6{
+    margin-bottom: 5px;
+        color: blue;
+        letter-spacing: 0.1em;
+}
+
+
+
+.ninth_container h4{
+    letter-spacing: 0.3em;
+    margin-bottom: 5px;
+    margin-top: 5px;  
+}
+
+
+
+.ninth_container p{
+    display: inline;
+    line-height: 2;
+}
+
+/*===================TENTH CONTAINER===================*/
+.tenth_container{
+background-color: #0661BE;
+text-align: left;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 23%;
+}
+
+
+.tenth_container h4{
+    color: wheat;
+    letter-spacing: 0.4em;
+    word-spacing: 0.5em;
+    
+    margin-bottom: 5px;
+
+}
+
+
+.tenth_container p{
+    color: white;
+    margin-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+/*======================ELEVENTH CONTAINER=======================*/
+
+
+
+.eleventh_container{
+text-align: center;
+background-color: #FFFFFF;
+
+}
+
+.eleventh_container h5{
+
+margin-bottom: 10px;
+margin-top: 0px;
+color: blue;
+padding-top: 30px;
+}
+
+
+.eleventh_container h3{
+    letter-spacing: 0.1em;
+     margin-top: 5px;
+      margin-bottom: 0px;
+    
+  
+    
+    padding-bottom: 5px;
+    
+}
+
+
+
+
+
+.twelve_container{
+    text-align: center;
+   
+    padding-top: 10px;
+
+  
+    padding-bottom: 50px;
+
+}
+
+.twelve_container div{
+    display:inline-block;
+    background-color: whitesmoke;
+    width:30%;
+    
+    padding-top: 15px;
+
+    height: 100%;
+    
+
+   
+}
+
+.twelve_container p{
+    width: 70%;
+    text-align: left;
+   padding-left: 15%;
+   line-height: 1;
+   
+}
+
+
+footer{
+    background-color: #E2EBF4;
+    padding: 50px 0 20px;
+    
+    padding-bottom: 250px;
+
+}
+
+.first_footer{
+    width: 30%;
+   margin-left: 70px;
+float: left;
+
+
+}
+
+
+
+.mybox{
+    background-color: transparent;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: black;
+    margin-bottom: 10px;
+
+}
+
+.mybox:focus{
+   outline: none;
+}
+
+.fa-google-plus-g{
+    color: red;
+}
+
+.fa-linkedin-in{
+    color: blue;
+}
+
+.fa-twitter{
+    color: rgb(86, 165, 218);
+}
+
+
+.fa-facebook-f{
+    color: rgb(51, 38, 230)
+    ;
+}
+
+
+
+
+.second_footer ul{
+    list-style: none;
+    line-height: 2;
+   columns: 2;
+}
+
+
+
+.second_footer{
+   
+   float: left;
+   width: 30%;
+   
+
+}
+
+
+.second_footer h6{
+    text-align: center;
+
+}
+
+
+
+.footer_image{
+  width: 5%;
+    height: 5%; 
+    float: left; 
+}
+
+.third_footer p{
+float: left;
+display: inline-block;
+width: 30%;
+margin-left: 8px;
+}
+
+
+
+
+
+
+/* Mobile */
+@media(max-width:720px){
+
+    .third_container div{
+        text-align:  center;
+        display:inline;
+      } 
+      .third_container p{
+       
+          text-align: center;
+          padding-left: 30%;
+          line-height: 2;
+           
+       }
+       .third_container h5{
+        letter-spacing: 0.2em;
+            margin-top: 0px;
+            
+            padding-left: 40%;
+            
+        
+            padding-top: 0px;
+        }
+        a{
+            text-decoration: none;
+            padding-left: 15%;
+            display: block;
+            
+        }
+        
+.fa-anchor{
+    padding-right: 5%;
+    
+    padding-bottom: 20px;
+    margin-top:40px;
+
+}
+
+
+.fa-image{
+    padding-right: 5%;
+    
+    padding-bottom: 20px;
+    margin-top: 40px;
+
+}
+
+.fa-rocket{
+    
+        padding-right: 5%;
+        
+        padding-bottom: 20px;
+        margin-top: 40px;
+    
+}
+
+/*foruth container*/
+
+
+.fourth_container{
+    background-color: #F5F9FC;
+    padding-top: 10px;
+    padding-bottom: 20px; 
+    text-align: center;  
+    width: 100%;
+}
+
+
+
+.fourth_container img{
+    width: 70%;
+    padding-top:50px ;   
+    display: block;
+    padding-left: 30%;
+}
+
+.fourth_container h4{
+     margin-top: 0px;
+    padding-top: 50px;
+   
+    margin-bottom: 10px;
+    color: blue;
+    letter-spacing: 0.2em;
+}
+
+.fourth_container h2{
+    letter-spacing: 0.1em;
+ 
+}
+
+.fourth_container p{
+    line-height: 1.5em;
+    
+    
+    
+    text-align: center;
+ 
+}
+.fourth_container div{
+    
+    margin-left: 0px;
+
+}
+
+
+/*fifth container*/
+
+
+
+.fifth_container{ 
+
+   
+    text-align: center;
+  
+    
+    
+    padding-bottom: 10%;
+    padding-top: 10%;
+
+
+
+}
+
+
+.vl {
+    border-left: 1px solid #E2EBF4;
+}
+
+
+
+.fifth_container i{
+
+    font-size: 200%;
+}
+
+
+.fifth_container p{
+    display: inline-block;
+    font-size: 0.7em;
+    width: 4%;
+}
+
+.fifth_container div{
+    width: 100%;
+    background-color: #E2EBF4;
+    padding-bottom: 10px;
+}
+
+/* sixth container*/
+
+.sixth_container{
+   
+    text-align: center;
+    
+   
+
+    
+
+}
+.sixth_container h5{
+
+margin-bottom: 10%;
+margin-top: 40%;
+
+padding-top: 30%;
+
+
+}
+
+
+.sixth_container h3{
+    letter-spacing: 0.1em;
+     margin-top: 5px;
+      margin-bottom: 0px;
+    padding-bottom: 10px;
+     
+}
+
+
+/*twelveth container*/
+
+
+.twelve_container{
+    text-align: center;
+   
+    padding-top: 10px;
+
+  
+    padding-bottom: 50px;
+
+}
+
+.twelve_container div{
+    
+    background-color: whitesmoke;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-top: 15px;
+width: 100%;
+  
+}
+
+.twelve_container p{
+    
+    text-align: center;
+    margin-left: 50px;
+    padding-bottom: 10px;
+   line-height: 1;
+}
+
+
+
+/* ============FOOTER================*/
+
+
+
+footer{
+    background-color: #E2EBF4;
+    
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100%;
+
+}
+
+.first_footer{
+    width: 30%;
+   margin-left: 70px;
+
+
+
+}
+
+
+
+.mybox{
+    background-color: transparent;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: black;
+    margin-bottom: 10px;
+
+}
+
+.mybox:focus{
+   outline: none;
+}
+
+.fa-google-plus-g{
+    color: red;
+}
+
+.fa-linkedin-in{
+    color: blue;
+}
+
+.fa-twitter{
+    color: rgb(86, 165, 218);
+}
+
+
+.fa-facebook-f{
+    color: rgb(51, 38, 230)
+    ;
+}
+
+
+
+
+.second_footer ul{
+    list-style: none;
+    line-height: 2;
+   columns: 2;
+}
+
+
+
+.second_footer{
+   
+   
+   width: 50%;
+   margin-left: 20px;
+   
+
+}
+
+
+.second_footer h6{
+    text-align: center;
+
+}
+
+.btn{
+    margin-bottom: 20px;
+}
+
+.footer_image{
+  width: 50%;
+   
+  
+}
+
+.third_footer p{
+margin-left: 8px;
+
+}
+
+
+.third_footer{
+ margin-left: 15%;
+ 
+ width: 70%;
+}
+
+.tenth_container{
+    background-color: #0661BE;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    }
+    
+    
+    .tenth_container h4{
+        color: wheat;
+        letter-spacing: 0.4em;
+        word-spacing: 0.5em;
+        
+        margin-bottom: 5px;
+    
+    }
+    
+    
+    .tenth_container p{
+        color: white;
+        margin-top: 10px;
+    
+    }
+    
+    
+}
