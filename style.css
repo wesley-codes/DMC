@@ -686,22 +686,21 @@ margin-left: 8px;
 
     .third_container div{
         text-align:  center;
-        display:inline;
+        display: inline;
+        
       } 
       .third_container p{
        
           text-align: center;
-          padding-left: 30%;
+          padding-left: 10%;
+          width: 90%;
           line-height: 2;
            
        }
        .third_container h5{
         letter-spacing: 0.2em;
             margin-top: 0px;
-            
             padding-left: 40%;
-            
-        
             padding-top: 0px;
         }
         a{
@@ -721,7 +720,7 @@ margin-left: 8px;
 
 
 .fa-image{
-    padding-right: 5%;
+    padding-right: 7%;
     
     padding-bottom: 20px;
     margin-top: 40px;
@@ -730,7 +729,7 @@ margin-left: 8px;
 
 .fa-rocket{
     
-        padding-right: 5%;
+        padding-right: 7%;
         
         padding-bottom: 20px;
         margin-top: 40px;
@@ -860,6 +859,68 @@ padding-top: 30%;
 }
 
 
+
+
+/*=======================SEVENTH CONTAINER=============================*/
+
+.seventh_container{
+    width: 90%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+    margin-top: 50px;
+
+   
+}
+
+
+
+/*=======================EIGHT CONTAINER=============================*/
+
+.eight_container{
+    width: 90%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    margin-top: 200px;
+}
+
+
+
+/*==================NINTH CONTAINER================*/
+
+
+.ninth_container{
+    width: 90%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    margin-top: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*twelveth container*/
 
 
@@ -908,8 +969,9 @@ footer{
 }
 
 .first_footer{
-    width: 30%;
-   margin-left: 70px;
+    width: 90%;
+  margin:5%;
+   display: block;
   
 
 
@@ -954,25 +1016,24 @@ footer{
 
 .second_footer ul{
     list-style: none;
-    line-height: 2;
-   columns: 2;
+    
+   
 }
 
 
 
 .second_footer{
    
-   
-   width: 50%;
-   margin-left: 20px;
-   
+   display: block;
+   width: 100%;
+ 
 
 }
 
 
 .second_footer h6{
-    
-text-align: center;
+    color: blue;
+
 }
 
 .btn{
@@ -981,22 +1042,21 @@ text-align: center;
 
 .footer_image{
  
-  width: 30%;
-   
+  width: 25%;
+ 
   
 }
 
 .third_footer p{
-margin-left: 8px;
+
 
 
 }
 
 
 .third_footer{
- margin-left: 15%;
+display: inline-block;
  
- width: 70%;
 }
 /*==================== tenth container======================*/
 .tenth_container{
